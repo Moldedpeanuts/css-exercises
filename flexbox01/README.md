@@ -4,6 +4,6 @@ This is the first exercise i have encountered on the [Interneting is Hard](https
 
 ## Desired Result
 
-![Flexbox01 Solution](~/css-exercises/flexbox01/flexbox01-result.png)
+![Flexbox01 Solution](~/css-exercises/flexbox01/images/flexbox01-result.png)
 
-For more details ,visit the [Flexbox Exercise Page](https://internetingishard.netlify.app/html-and-css/flexbox/index.html).
+For more details ,visit the [Flexbox Exercise Page](https://internetingishard.netlify.app/html-and-css/flexbox/index.html)
