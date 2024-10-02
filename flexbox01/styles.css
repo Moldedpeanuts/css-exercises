@@ -35,4 +35,16 @@
     display: flex;
     justify-content: center;
   }
-  
+
+.header {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photo-grid-container {
+    display: flex;
+    justify-content: center;
+  }
