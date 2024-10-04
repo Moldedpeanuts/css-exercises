@@ -1,17 +1,18 @@
 *,
-**::before,
-**::after {
+*::before,
+*::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 
 .menu-container {
     color: white;
     background-color: #5995DA;
     padding: 20px 0;
     display: flex;
-    justify-content: center;
+    justify-content: center;  /* centering .menu */
 }
 
 .menu {
@@ -23,7 +24,7 @@
 .links {
     display: flex;
     justify-content: flex-end;
-  }
+}
 
 .login {
     margin-left: 20px;
@@ -53,7 +54,9 @@
     width: 900px;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    flex-direction: row-reverse;
 }
 
 .photo-grid-item {
